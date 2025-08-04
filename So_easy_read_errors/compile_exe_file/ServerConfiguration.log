@@ -1,0 +1,92 @@
+﻿[2025-05-12 21:18:34,037 Thread=.NET Long Running Task]
+apply singleServerConfig on current server: 
+	revId: 169d2714-237b-4dfb-8799-9a304d386ab6, id: 480933e6-1b76-4bbe-8301-d287269aea29, name: Новая конфигурация
+SERVER: 
+	id: 082faa3b-85b2-47ad-8c41-958c5d66b158, port: 8383, serverUrl: http://192.168.2.227:8383, name: Cервер 1 isReplicationServer: False, useFastReserving: False
+CHANNEL_BINDINGS:
+	channelId: 51e45738-6ad7-4461-932c-b036be186c72(Склад 1 дал ряд 23-24 (кам 01)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 079ee5d5-cbbe-4600-94ed-0c650229677c(Склад 1 дал ряд 31-32 (кам 02)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: fa582a19-c249-46f9-a33a-d6dc4c7f9011(Склад 1 дал ряд 21-22 (кам 03)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 2c668558-1379-4d46-99bf-220600fbc4af(Склад 1 дал ряд 25-26 (кам 04)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: bcdac52a-539b-4114-bb4c-09090f327cc8(Склад 1 дал ряд 17-18 (кам 05)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: bcfac845-c031-42f0-90e8-167c85519a3c(Склад 1 дал ряд 27-28 (кам 06)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 78e17e82-8563-42c1-aac1-d394dd2c7b0f(Склад 1 дал ряд 19-20 (кам 07)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 2b66667c-0ea7-428f-8846-2242d32e2f95(Склад 1 дал ряд проход 1 (кам 8)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: aa926606-f8c5-437b-8fee-515babb20c19(Склад 1 дал ряд проход 2 (кам 9)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: f3c5ca7e-2a7b-4ca2-b42a-76509a871e6a(Пандус 02 (кам 10)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 388891ed-ef76-4d04-ade0-77b511f8d1c1(Пандус 08 (кам 11)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 8f2c71a2-d75a-45d2-8d9b-ea0f158d2d32(Пандус 12 (кам 12)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 2f31e96d-966a-45b9-a1fd-62bbf24c2076(Пандус 14 (кам 13)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 08e40069-f9f4-405f-a08b-ec0970fccb9a(Пандус 19 (кам 14)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 42190b7d-5d5c-433b-84ed-b1417a4e54d3(Пандус 21 (кам 15)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 1a279d67-402f-4448-ab90-3da1c3bd2d08(Зарядная погрузчиков (кам 16)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 4dcdffc4-6288-41ad-a935-399b3cd5c1ff(Склад 1 дал ряд 29-30 (кам 18)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 0a099d82-110a-45ff-adf9-cebf664d0823(Склад 2 Поворотная (кам 19)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: afb6688e-9b27-4946-873a-4ff6b1ce65a6(Склад 1 Сборка товара 3 (кам 20)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: d9114819-554e-4d61-9f28-efbd8abe0a76(Склад 1 дал ряд 01-02 (кам 21)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: eba9d5d3-a0ad-4a5f-adf3-9c7a72cf3061(Склад 1 дал ряд 03-04 (кам 22)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 40bb38c2-a460-4d7c-9111-6bbed588c2f2(Склад 1 дал ряд 05-06 (кам 23)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: fcf94018-1a8b-4755-9fe3-7bcaaa6e19f9(Склад 1 дал ряд 07-08 (кам 24)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: f36cbbf7-2796-4a55-9342-a2fa41924b7a(Склад 1 дал ряд 09-10 (кам 25)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: b7e0006b-44f3-407e-a0ec-715de0842083(Склад 1 дал ряд 11-12 (кам 26)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 209b4857-b7fb-477c-9c53-71baae8a5fc1(Склад 1 дал ряд 13-14 (кам 27)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 86582233-2c18-45c4-9226-ecdb48674e46(Склад 1 дал ряд 15-16 (кам 28)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: a048d293-445e-4d81-9427-6e6f32b86b4f(1-2 (кам 29)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 715ff99b-2131-4671-b085-f49c23c795a7(2-3 (кам 30)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 088ce777-2b3e-4b68-a795-310110f5b066(2-1 (кам 31)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: b94d9b2b-ea75-46f8-9bd5-957be366ee0e(1-3 (кам 32)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: fe204b97-9a6a-4f39-bdbc-396d87c6019f(1-6 (кам 33)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 667a2b42-8aa9-42ff-8471-625479e67f62(1-1 (кам 34)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 7c84f0f2-7552-4789-8c2e-4a042c49f0d1(1-5 (кам 35)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 5fd4e5c5-f705-40b9-87dd-9cab4b47845e(Склад 1 ближ ряд 07-08 (кам 36)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 02baeff3-9515-499a-a150-617b76d37695(2-4 (кам 37)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 6eefd201-e446-4d90-927e-91af5cabbd84(2-5 (кам 38)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 9053b3a0-7796-4d7d-b449-3c290085b3b5(1-4 (кам 39)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: e164bb98-7a76-49c0-a194-103062ffe6fd(2-2 (кам 40)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 9a684ba6-fbf0-4ed0-85d0-c12fd59ae6db(2-6 (кам 41)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 192fec78-4322-402a-8e7b-1dfe45b5bbaa(Склад 1 ближ ряд 21-22 (кам 42)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 58cb7eea-e750-47fa-adb9-7a717c4324a4(Склад 2 ближ ряд 02 (кам 43)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 0a1ac4b0-f6b0-4838-aa36-f6f3efdd0fac(Склад 2 проход ворота 3 (кам 44)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: fc105587-e525-4471-9143-0ba502765dba(Склад 2 ближ ряд 01 (кам 45)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: ed46ec7a-73cf-489e-8163-df0d687453e1(Склад 1 ближ ряд 13-14 (кам 46)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 422a3cc3-911c-4f08-a483-8650c2b159a7(Склад 1 ближ ряд 11-12 (кам 47)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: c4b4dc77-3637-489c-a070-7980c5acf61f(Склад 2 ближ ряд 03 (кам 48)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: d29c42f6-0747-41c1-a377-4dbdbde9f1fd(Склад 1 ближ ряд 31-32 (кам 49)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: ba707f93-a31e-4ecf-bc09-5f5282f74cf3(Склад 1 ближ ряд 09-10 (кам 50)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 264ba20e-81ef-4a54-8d32-3414aa7e83df(Склад 1 ближ ряд 15-16 (кам 51)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: e719f45c-9d9f-42e4-b130-2562245e7afc(Производство 01 (кам 52)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 89c4d617-1098-4c2c-b881-df2ab852f333(Производство 02 (кам 53)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 29c190e5-0b64-4396-b964-bcd1306879e7(Склад 1 ближ ряд 23-24 (кам 54)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 5c06b7e9-35bb-43e8-b25b-c9b8c338db41(Склад 1 ближ ряд 25-26 (кам 55)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 5b16455c-14a9-4e92-821e-12860471ffee(Склад 1 ближ ряд 03-04 (кам 56)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: cb2af510-7c37-438e-98c4-633d22067d8d(Производство 03 (кам 57)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: fefc85a5-8ee9-4c41-a568-90471547172f(Склад 1 ближ ряд 17-18 (кам 58)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 83180396-a69e-4f60-af1e-8f8e9977686e(Склад 2 дал ряд 4 (кам 59)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 2dbaf890-5eb2-4223-81e0-8c0cb7dc7be6(Склад 2 дал ряд 3 (кам 60)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: b60ddb13-49fd-4e0f-90d7-14b91bec7ff4(Склад 1 ближ ряд 19-20 (кам 61)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 6ae92cc5-4845-4e01-9096-8b1eac9b55b5(Склад 1 ближ ряд 29-30 (кам 62)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: c71cedd0-ca65-4bb5-9d6a-343f9d902cce(Склад 2 дал ряд 1 (кам 63)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: eb4100ea-162a-4e5d-9c53-5d966d38332f(Склад 1 ближ ряд 05-06 (кам 64)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: bb21fb14-0751-489b-bc12-1d3ba530929d(Склад 2 ближ ряд 04 (кам 65)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 8028e54b-746f-4d3c-aec4-2bc4559cb2ae(Склад 1 ближ ряд 01-02 (кам 66)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 668bb4c4-ef60-435f-adae-0705c923420d(Склад 2 дал ряд 2 (кам 67)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 61ac90bc-ed4f-4232-9856-6f3561a0be3e(Склад 1 ближ ряд 27-28 (кам 68)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 30bb00d8-11de-4a12-a054-83ef424f6126(Склад 1 Сборка товара 2 (кам 69)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 6b334e6e-f8db-4d10-81bd-1c0d902408c8(Склад 1 Сборка товара 4 (кам 70)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: f7818688-2e21-4f30-a6b3-fe62042de7b5(Склад 1 Сборка товара 1 (кам 71)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: ccd83685-0f09-49b7-bef5-bcaf4fe14cdf(Склад 2 проход ворота 4 (кам 72)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: e8a3d820-f221-49ce-9e23-3aee6ff80031(Склад Армен), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: b71d9b5a-f229-4a4e-ac7e-ff1b626998e9(Склад 1 Сборка товара 5), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: b3345f09-8903-49d5-8977-a3c8c8ab9298(Пандус 6 Ворота), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 154c93c8-0020-487c-a88f-e0afe1916c76(Маркетплейс 6), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+USERS:
+	name: root, canConfigure: True
+	name: Ashot, canConfigure: True
+	name: Agasi, canConfigure: True
+	name: sklad, canConfigure: False
+	name: pavlov, canConfigure: False
+	name: Kristina, canConfigure: False
+	name: Zoya, canConfigure: False
+	name: David, canConfigure: False
+	name: Nikolas, canConfigure: False
+

@@ -1,0 +1,42 @@
+[2025-05-13 07:45:06]
+Error receiving frames from the camera.
+
+[2025-05-13 07:46:02]
+Violation of the sequence in the RTP, the type of load 96, Previous value 5586, present value 5592
+
+[2025-05-13 07:46:26]
+Error receiving frames from the camera.
+
+[2025-05-13 07:47:59]
+Error when sending Keepalive via RTSP:
+
+[2025-05-13 07:47:59]
+Error receiving frames from the camera.
+
+[2025-05-13 07:47:59]
+Error when sending data Camera via RTCP:
+
+[2025-05-13 07:47:59]
+Error receiving frames from the camera.
+
+[2025-05-13 07:50:49]
+Error receiving frames from the camera.
+
+[2025-05-13 07:51:12]
+Error trying to connect to the camera.
+
+[2025-05-13 07:58:49]
+Error trying to connect to the camera.
+
+[2025-05-13 08:01:59]
+Error trying to connect to the camera.
+
+[2025-05-13 08:06:49]
+Error when sending Keepalive via RTSP:
+
+[2025-05-13 08:06:50]
+Error when sending data Camera via RTCP:
+
+[2025-05-13 08:06:51]
+Error receiving frames from the camera.
+
