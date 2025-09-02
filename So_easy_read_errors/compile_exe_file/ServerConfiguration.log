@@ -1,92 +1,167 @@
-﻿[2025-05-12 21:18:34,037 Thread=.NET Long Running Task]
+﻿[2025-08-28 09:15:27,446 Thread=.NET Long Running Task]
 apply singleServerConfig on current server: 
-	revId: 169d2714-237b-4dfb-8799-9a304d386ab6, id: 480933e6-1b76-4bbe-8301-d287269aea29, name: Новая конфигурация
+	revId: fdb991e6-a9bd-44bf-96f2-59e628ec8ac0, id: 20473f63-426f-4537-aa47-687adece628e, name: Новая конфигурация
 SERVER: 
-	id: 082faa3b-85b2-47ad-8c41-958c5d66b158, port: 8383, serverUrl: http://192.168.2.227:8383, name: Cервер 1 isReplicationServer: False, useFastReserving: False
+	id: f97e167c-0fc1-424b-a9e2-335ed53550bd, port: 8080, serverUrl: http://172.28.28.208:8080, name: VS6 isReplicationServer: False, useFastReserving: False
 CHANNEL_BINDINGS:
-	channelId: 51e45738-6ad7-4461-932c-b036be186c72(Склад 1 дал ряд 23-24 (кам 01)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 079ee5d5-cbbe-4600-94ed-0c650229677c(Склад 1 дал ряд 31-32 (кам 02)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: fa582a19-c249-46f9-a33a-d6dc4c7f9011(Склад 1 дал ряд 21-22 (кам 03)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 2c668558-1379-4d46-99bf-220600fbc4af(Склад 1 дал ряд 25-26 (кам 04)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: bcdac52a-539b-4114-bb4c-09090f327cc8(Склад 1 дал ряд 17-18 (кам 05)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: bcfac845-c031-42f0-90e8-167c85519a3c(Склад 1 дал ряд 27-28 (кам 06)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 78e17e82-8563-42c1-aac1-d394dd2c7b0f(Склад 1 дал ряд 19-20 (кам 07)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 2b66667c-0ea7-428f-8846-2242d32e2f95(Склад 1 дал ряд проход 1 (кам 8)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: aa926606-f8c5-437b-8fee-515babb20c19(Склад 1 дал ряд проход 2 (кам 9)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: f3c5ca7e-2a7b-4ca2-b42a-76509a871e6a(Пандус 02 (кам 10)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 388891ed-ef76-4d04-ade0-77b511f8d1c1(Пандус 08 (кам 11)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 8f2c71a2-d75a-45d2-8d9b-ea0f158d2d32(Пандус 12 (кам 12)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 2f31e96d-966a-45b9-a1fd-62bbf24c2076(Пандус 14 (кам 13)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 08e40069-f9f4-405f-a08b-ec0970fccb9a(Пандус 19 (кам 14)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 42190b7d-5d5c-433b-84ed-b1417a4e54d3(Пандус 21 (кам 15)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 1a279d67-402f-4448-ab90-3da1c3bd2d08(Зарядная погрузчиков (кам 16)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 4dcdffc4-6288-41ad-a935-399b3cd5c1ff(Склад 1 дал ряд 29-30 (кам 18)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 0a099d82-110a-45ff-adf9-cebf664d0823(Склад 2 Поворотная (кам 19)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: afb6688e-9b27-4946-873a-4ff6b1ce65a6(Склад 1 Сборка товара 3 (кам 20)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: d9114819-554e-4d61-9f28-efbd8abe0a76(Склад 1 дал ряд 01-02 (кам 21)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: eba9d5d3-a0ad-4a5f-adf3-9c7a72cf3061(Склад 1 дал ряд 03-04 (кам 22)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 40bb38c2-a460-4d7c-9111-6bbed588c2f2(Склад 1 дал ряд 05-06 (кам 23)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: fcf94018-1a8b-4755-9fe3-7bcaaa6e19f9(Склад 1 дал ряд 07-08 (кам 24)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: f36cbbf7-2796-4a55-9342-a2fa41924b7a(Склад 1 дал ряд 09-10 (кам 25)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: b7e0006b-44f3-407e-a0ec-715de0842083(Склад 1 дал ряд 11-12 (кам 26)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 209b4857-b7fb-477c-9c53-71baae8a5fc1(Склад 1 дал ряд 13-14 (кам 27)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 86582233-2c18-45c4-9226-ecdb48674e46(Склад 1 дал ряд 15-16 (кам 28)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: a048d293-445e-4d81-9427-6e6f32b86b4f(1-2 (кам 29)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 715ff99b-2131-4671-b085-f49c23c795a7(2-3 (кам 30)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 088ce777-2b3e-4b68-a795-310110f5b066(2-1 (кам 31)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: b94d9b2b-ea75-46f8-9bd5-957be366ee0e(1-3 (кам 32)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: fe204b97-9a6a-4f39-bdbc-396d87c6019f(1-6 (кам 33)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 667a2b42-8aa9-42ff-8471-625479e67f62(1-1 (кам 34)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 7c84f0f2-7552-4789-8c2e-4a042c49f0d1(1-5 (кам 35)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 5fd4e5c5-f705-40b9-87dd-9cab4b47845e(Склад 1 ближ ряд 07-08 (кам 36)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 02baeff3-9515-499a-a150-617b76d37695(2-4 (кам 37)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 6eefd201-e446-4d90-927e-91af5cabbd84(2-5 (кам 38)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 9053b3a0-7796-4d7d-b449-3c290085b3b5(1-4 (кам 39)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: e164bb98-7a76-49c0-a194-103062ffe6fd(2-2 (кам 40)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 9a684ba6-fbf0-4ed0-85d0-c12fd59ae6db(2-6 (кам 41)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 192fec78-4322-402a-8e7b-1dfe45b5bbaa(Склад 1 ближ ряд 21-22 (кам 42)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 58cb7eea-e750-47fa-adb9-7a717c4324a4(Склад 2 ближ ряд 02 (кам 43)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 0a1ac4b0-f6b0-4838-aa36-f6f3efdd0fac(Склад 2 проход ворота 3 (кам 44)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: fc105587-e525-4471-9143-0ba502765dba(Склад 2 ближ ряд 01 (кам 45)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: ed46ec7a-73cf-489e-8163-df0d687453e1(Склад 1 ближ ряд 13-14 (кам 46)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 422a3cc3-911c-4f08-a483-8650c2b159a7(Склад 1 ближ ряд 11-12 (кам 47)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: c4b4dc77-3637-489c-a070-7980c5acf61f(Склад 2 ближ ряд 03 (кам 48)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: d29c42f6-0747-41c1-a377-4dbdbde9f1fd(Склад 1 ближ ряд 31-32 (кам 49)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: ba707f93-a31e-4ecf-bc09-5f5282f74cf3(Склад 1 ближ ряд 09-10 (кам 50)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 264ba20e-81ef-4a54-8d32-3414aa7e83df(Склад 1 ближ ряд 15-16 (кам 51)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: e719f45c-9d9f-42e4-b130-2562245e7afc(Производство 01 (кам 52)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 89c4d617-1098-4c2c-b881-df2ab852f333(Производство 02 (кам 53)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 29c190e5-0b64-4396-b964-bcd1306879e7(Склад 1 ближ ряд 23-24 (кам 54)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 5c06b7e9-35bb-43e8-b25b-c9b8c338db41(Склад 1 ближ ряд 25-26 (кам 55)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 5b16455c-14a9-4e92-821e-12860471ffee(Склад 1 ближ ряд 03-04 (кам 56)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: cb2af510-7c37-438e-98c4-633d22067d8d(Производство 03 (кам 57)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: fefc85a5-8ee9-4c41-a568-90471547172f(Склад 1 ближ ряд 17-18 (кам 58)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 83180396-a69e-4f60-af1e-8f8e9977686e(Склад 2 дал ряд 4 (кам 59)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 2dbaf890-5eb2-4223-81e0-8c0cb7dc7be6(Склад 2 дал ряд 3 (кам 60)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: b60ddb13-49fd-4e0f-90d7-14b91bec7ff4(Склад 1 ближ ряд 19-20 (кам 61)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 6ae92cc5-4845-4e01-9096-8b1eac9b55b5(Склад 1 ближ ряд 29-30 (кам 62)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: c71cedd0-ca65-4bb5-9d6a-343f9d902cce(Склад 2 дал ряд 1 (кам 63)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: eb4100ea-162a-4e5d-9c53-5d966d38332f(Склад 1 ближ ряд 05-06 (кам 64)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: bb21fb14-0751-489b-bc12-1d3ba530929d(Склад 2 ближ ряд 04 (кам 65)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 8028e54b-746f-4d3c-aec4-2bc4559cb2ae(Склад 1 ближ ряд 01-02 (кам 66)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 668bb4c4-ef60-435f-adae-0705c923420d(Склад 2 дал ряд 2 (кам 67)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 61ac90bc-ed4f-4232-9856-6f3561a0be3e(Склад 1 ближ ряд 27-28 (кам 68)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 30bb00d8-11de-4a12-a054-83ef424f6126(Склад 1 Сборка товара 2 (кам 69)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 6b334e6e-f8db-4d10-81bd-1c0d902408c8(Склад 1 Сборка товара 4 (кам 70)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: f7818688-2e21-4f30-a6b3-fe62042de7b5(Склад 1 Сборка товара 1 (кам 71)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: ccd83685-0f09-49b7-bef5-bcaf4fe14cdf(Склад 2 проход ворота 4 (кам 72)), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: e8a3d820-f221-49ce-9e23-3aee6ff80031(Склад Армен), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: b71d9b5a-f229-4a4e-ac7e-ff1b626998e9(Склад 1 Сборка товара 5), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: b3345f09-8903-49d5-8977-a3c8c8ab9298(Пандус 6 Ворота), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
-	channelId: 154c93c8-0020-487c-a88f-e0afe1916c76(Маркетплейс 6), serverId: 082faa3b-85b2-47ad-8c41-958c5d66b158(Cервер 1)
+	channelId: 37475bad-4ae9-408f-80aa-ae589f004112(Продажа Кованных изделий), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: d2687fcf-5cca-4888-b130-caeddc3d01c2(Складчики База 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: a0327005-3014-4a8e-ac5d-ba773b9d1933(Пост - База 2-3 Проход), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: fc2f0806-2d9c-4dd5-9a58-4caf17b2f034(База 2 погрузка 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 7ef9a8a7-6430-4d97-9b1d-ec408f5f5809(Двор База 2-3 Подъезд), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 0ea06e61-3128-4a99-bc21-bf2ab35f6336(Двор Пост База 2-3 Номера), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 049fa880-5cd0-47d7-84ee-18a9d8960438(Двор Б2 ворота), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 33f9c112-0277-4395-a667-c27265b1d879(Двор Б2 Раздевалка), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 33668f37-2c35-4152-8362-d0be237ca031(Двор Б2 Вход Цех Отводов), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: d8bf68de-f493-4fe7-b6e4-308d756d08d4(Двор Б3 Цех пескоструйный), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: dfe9d453-dcc2-4b73-8be0-204893b2a59c(Двор Б3 Вход Цех Сварочный), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: ad27d96e-959d-4a27-a03a-cad9de837259(Двор Б3 Ворота Въезд), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 75d9be0a-e26a-4731-bf99-8d36da92320a(Двор Б3 Вход ППР Продажи), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: ef2e668d-020e-4bb7-9598-b4ad014d4009(Двор Б3 Автослесарная), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 9dbc172c-aa4c-4e92-baf0-38196bdf55b0(Двор Б2 ППР Склады), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 704a3ff6-a28d-4778-8ea9-da20123bc946(Цех Сварочный - Покраска), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: b62019cc-3f77-4be2-83aa-422d0204d22e(Цех Сварочный 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 19d8b89c-a612-418f-ae24-140c0f6b2971(Цех Сварочный 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 256f0258-4d97-4565-829c-62ec71bbb4c7(Склад ППР товаров 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: e93d3057-3389-40e1-b713-5c8c2933f690(Склад ППР товаров 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: ca2ae99c-f878-4f90-9e54-2a53e0336b09(Подсобка Строй бригады), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: c9cd9e9b-33a3-4e77-a94c-fc7beef4d128(Двор Б3 Цех Отводов), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: c63bd47a-fa6d-4673-b7a7-9b2c0b452c68(Двор Б2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: aa790fcb-0998-4caa-ad9f-e945ad84f658(B4 office 2nd Floor Corridor 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 62b975a9-7886-42fb-870c-a6ca81337f12(B4 office 2nd Floor Room Server room), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 217f2322-14ea-4282-9369-07f529b7e82b(Продажа ППР), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: dc7567ae-3c71-4d9e-b71a-2fabcb82933c(B4 office 2nd Floor 206 room), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 4b0cbd77-d3c7-42f1-8cdb-37d7120f44b5(B4 office 2nd Floor 207 room), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 22a5b025-b194-4aa5-bd0d-84c2acb0de9a(B4 office 2nd Floor 209 room), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 87b384f0-c19d-4801-a41e-c13b1e95fcfc(B3 Автослесорная), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: fb317655-c374-42e9-8ac6-8fc012b38b13(B3 Гараж), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 7b11d362-24e1-404d-b4df-a909da1cfe1e(B4 office 2nd Floor 203 room), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: a5796aa8-82f9-400b-a0d0-efe6e9688110(B4 office 2nd Floor Conf Hall), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 42cf3234-e9c4-44d9-ac55-066188e0edd7(Касса Б4), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: f5cdd0a3-06fa-4bb0-914a-e91327e079a9(Продажа Металлобаза 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: ade80f53-6c99-43af-9522-15458abe8cba(Продажа Металлобаза 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 0203892c-429c-4192-af04-64d5edd63065(Ресепшн 1 этаж), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 8726d0dc-6246-459e-ab82-019845601315(Meeting room 1 -1ndFloor), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 1bd3995a-a21c-47fd-b917-617e331b2ac2(Касса), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 313c6d2b-631a-4209-b3a8-3022a7600588(Касса-Деньги), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 9e2a4fad-d2f5-4897-98ac-65ff294a0348(Серверная), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 09f723d1-0d89-47a9-a838-c4773c327669(Вход 2 этаж корридор), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: a7353f77-ad60-4d59-b636-e189ccf64a34(Отдел кадров), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 9ed6322a-a46a-4a47-889b-07b56a00ae3f(Отдел юристов), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 75a20903-362d-4033-a505-3af4850fe5c0(Отдел снабжения), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: c24f67af-1e29-45d5-881c-cd1ab458a488(Отдел финансов), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 59d52f33-88e3-479e-b159-9761d50b1936(Кухня 2 этаж), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 49c99bc5-87ca-4436-9c12-ecd3de6450d5(Отдел бухгалтерия), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: fda51e0f-72f9-46b6-9c0d-de064f392581(Корридор 1 офис 2 этаж), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: d7d2012c-19a2-4f15-9298-54a103351fd5(Отдел планирования), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 7b914623-1182-4acc-a377-092191c19c8d(Конструкторская), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 4507971c-3f11-448e-8526-67552e26a1df(Отдел бухгалтерии - 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 2567697e-9e15-484a-8174-e63e5b2849ee(Пожарный выход), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: efa886b2-c920-4249-a6a6-50e5f553220c(Ресепешн - 2ой этаж), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: e87aebdc-5314-4186-8ffd-b985f3ae7f79(Не работает!), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 342c55db-9c72-44cb-a4fa-683fffc63ea0(Уборная - 1ый этаж), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: a024507e-6e9d-4a5a-8480-881246a911fe(Технический отдел), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 38da89c4-ffe0-4e84-a104-76a37fc21c70(Вход в конференц зал), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 0151a31b-6bdd-4b14-8bb4-5e68d81e9d4e(Прихожая Мед.пункт), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: f529cacd-2091-4a24-94b1-5fff00151369(Конструкторская 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: c3fef6fa-daaa-49c5-a633-976d6de58180(B1 Wending Machine 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 44789a8f-4e9e-44a0-ae53-81cc557b8891(Пост - Автовесы 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: aba282d2-2052-4dcf-a634-07931953bae7(Пост - Автовесы 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 7eb9b53d-9885-49eb-82c8-a2eb10b9fdfa(Раздевалка Б1-Женская), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 6279a029-33a3-46ba-87c1-5d67d99e5f30(Гараж - Кабинет), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: f0aeba16-56ad-428a-8f1d-cadaa72556b4(Прачечная), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 6e0696c3-ef7e-4129-a8b1-a27e2a98ebfe(Кухня 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 390ae764-0cc4-4a9e-9c21-6f146b390890(Кухня Зал 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 3fb3df7e-b638-4fb5-aa7d-1c2642dc9d70(Кухня Зал 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 041a9327-8d56-4cf7-8358-3f3fa56160d8(Кухня Турникет), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 412134c6-2a97-4750-a5e0-5a41676b3e33(Мех.Обр - Протяжка), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: cb546f56-8738-4583-b244-183a215ef284(Мех.Обр - Торцовка), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 710340fe-e53c-47ff-8ef6-f630f7abd716(Мех.Обр), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 0141f781-1e94-4d73-ad4a-1acd6dd45d6b(Мех.Обр - Инжекция 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: f6e70bcc-2b6e-4ecf-9a0d-fd997c3d3787(Мех.Обр - Инжекция 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 8d9d4dd8-320f-426b-adde-e7d7ab041f37(Мех.Обр - Инжекция 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 0514ba24-a318-4a42-8eaa-ada15b239ed5(Гальваника), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 868f3a5b-53c2-4546-b219-147baf1290a0(Цех Экструзионный 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: f60fb85a-93a7-4544-b47a-a423bbe42b55(Цех Экструзионный 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 05a5f5f0-27dd-449c-a2e2-64524071a68e(Цех Экструзионный 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 4e4dd035-406c-4e91-8321-bb3f92907b9b(ППР Дробилка 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: dcd6ff01-87fd-47d9-8cb7-36d599a0d545(Цех Инжекционный 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: a384aec9-0774-4141-8aae-108727a83ff1(Цех Инжекционный 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 309e78cd-437e-4112-b6a7-caa60b750d6f(Цех Инжекционный 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 5dc64667-485e-4651-95a9-f262cc7e09c2(Цех Инжекционный 4), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: f4943d11-70a5-4e15-a913-bc6ca53f6956(Цех Инжекционный 5), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: b1f2a695-f743-4c22-ad73-e2798be10166(Цех Инжекционный - Упаковка), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 40e00552-6003-423a-b8b5-6e9fb7e2514a(Цех Инструментальный 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 4d17d78c-d72c-4ecc-bc37-35025f793812(Цех Инструментальный 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: ffaa15b1-c25a-4897-85b7-3e35c279dc30(Раздевалка Б1 - 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: efe5edb8-8e1e-4439-ba4e-d0d94fe4e980(Раздевалка Б1 - 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: d6a00eb4-1da6-4959-ad11-1f9e3b2b539d(Цех Инструментальный 5), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: cda13702-9e80-4b51-8275-9e08f762c963(Раздевалка Б1 - 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: b9313e7c-445a-45d0-bf02-5acc5548afbb(Цех Экструзионный 4), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: a3136439-175b-48b9-a203-5db4cb984593(Цех Экструзионный 5), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: bc7cbb6e-f572-4d67-96d1-dbc9070c6385(Цех Инжекционный 6), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: adbeb433-6528-4518-b193-aaa81fd346d9(Мех.Обр - Протяжка 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: c497ca28-8e34-46ef-992e-641cddf6ca07(Цех Инжекционный 7), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 4c59020f-d939-487f-b947-cae33dea2dfc(Мех.Обр 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 053a7e34-fe72-4422-bb0e-e1a10103e55e(Склад Общепроизводственный 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: fed63168-9f93-418d-aadd-9b250dfcba27(Склад Общепроизводственный 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 7ea0d6f7-3582-4368-8ab2-96ae361ab01a(Кухня 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: c0a06acb-ffb6-4f02-95ba-ef3602394900(Подсобка Электриков), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 6e5d7ee5-b440-488a-9be1-70c1650d1dc3(Новый цех 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: eddfca63-0734-4072-b50f-e19331c97388(Цех Экструзионный 7), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: f85bed8a-bb69-496a-9361-17faa8679ed3(Новый цех 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 26635fe1-c450-483a-895a-de1e74a4f575(Цех Инструментальный Улица), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 5fdc2d52-0d98-43f9-b683-5931965b67a3(Цех Экструзионный 6), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 93240947-4dc3-4601-a110-6805fa629131(Б1 Новый склад сырья), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: b8d72707-0ebb-4f01-afe8-2ee8a419853d(Электрики), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 491709d9-579a-4d4b-9188-fc9b9682d71c(Цех Инструментальный Новый 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 7d4bee62-1125-44e7-a7e6-d9934c57e4ed(Цех Инструментальный Новый 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 58fbd4ee-4b13-4891-a3dc-8e6cee690cca(Цех Инструментальный Новый 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 6803720d-eacb-43bc-b374-6211263c4565(ПВХ2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: d73e76e8-6be0-4c95-96c0-26d961c30bb2(Вход в Инструментальный Цех), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: d8ce3697-f9cf-4a05-9d1e-69f784ebff1a(Пост- База 2- 3), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 9c1434fd-1cc3-4ce1-a3e2-0e9d2cd695f6(CRM room), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: ecaaac71-8c02-4a78-bf35-8a447e57d8f6(B4 office 2nd Floor Corridor 2), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 649d9aeb-c4da-4a83-8cdf-08f69e291950(B4 office 2nd Floor Meeting room 1), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 6aa2c67a-c1f5-4369-a58f-50c785d39c0e(Отдел корп.продаж), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 45869211-29a1-457a-bf2c-a7d369adcf26(КРАН), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 0667483b-739c-4e5a-a9e7-f83f8b8e9be3(B4 office reception), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 77d315a8-5a0c-4154-92c1-926d49192899(Автономера Выход), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 8a862ebb-2460-4865-af03-0aa7b83b4d57(Автономера Вход), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 2683a813-a4c7-474b-8c23-1d05e63d5f99(Конференц зал), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
+	channelId: 19d8700d-ceb8-4c15-92bf-f770c7c0d23f(VideoRoom), serverId: f97e167c-0fc1-424b-a9e2-335ed53550bd(VS6)
 USERS:
 	name: root, canConfigure: True
-	name: Ashot, canConfigure: True
-	name: Agasi, canConfigure: True
-	name: sklad, canConfigure: False
-	name: pavlov, canConfigure: False
-	name: Kristina, canConfigure: False
-	name: Zoya, canConfigure: False
-	name: David, canConfigure: False
-	name: Nikolas, canConfigure: False
+	name: monitor, canConfigure: False
+	name: post2, canConfigure: False
+	name: post1, canConfigure: False
+	name: farid, canConfigure: False
+	name: farkhad, canConfigure: False
+	name: reception1, canConfigure: False
+	name: vaslanov, canConfigure: False
+	name: am, canConfigure: False
+	name: vmovlanov, canConfigure: False
+	name: kassa, canConfigure: False
+	name: post3, canConfigure: False
+	name: reception2, canConfigure: False
+	name: nmirzagayev, canConfigure: False
+	name: abshpost1, canConfigure: False
+	name: SumqayitPost, canConfigure: False
+	name: yawar, canConfigure: False
+	name: muharrem, canConfigure: False
+	name: terezi, canConfigure: False
+	name: LanguPost, canConfigure: False
+	name: Raif, canConfigure: False
+	name: Mahir, canConfigure: False
+	name: LanguKassa, canConfigure: False
+	name: niyazi, canConfigure: False
+	name: faiq, canConfigure: False
+	name: elcin, canConfigure: False
+	name: Murad, canConfigure: False
+	name: it, canConfigure: False
+	name: ramazan, canConfigure: False
+	name: nsafikhanov, canConfigure: False
+	name: ahacaliyev, canConfigure: False
+	name: test, canConfigure: True
+	name: Sarkhan, canConfigure: False
 

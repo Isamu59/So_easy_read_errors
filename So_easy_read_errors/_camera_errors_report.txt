@@ -1,500 +1,136 @@
-ID: 02baeff3-9515-499a-a150-617b76d37695
-NAME: (2-4 (кам 37))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 5586, present value 5592
-2. Error trying to connect to the camera.
-3. Error when sending Keepalive via RTSP:
-4. Error when sending data Camera via RTCP:
-5. Error receiving frames from the camera.
+ID: 0141f781-1e94-4d73-ad4a-1acd6dd45d6b
+NAME: (Мех.Обр - Инжекция 1)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 079ee5d5-cbbe-4600-94ed-0c650229677c
-NAME: (Склад 1 дал ряд 31-32 (кам 02))
-1. Wrong video format might be chosen. Expected H265 (HEVC), but device returned - H264
-2. Failed to convert string in Int, the source string {A88A759B-4BD1-4DA2-8BB2-AFA3CFAFDA0A}
-3. Could not to get RTSP port from the device. The dafault port will be used. EFA77B14-FFED-43BC-8163-D28650013271
-4. Error executing a CGI request
-5. Could not log in to Bersan camera. ED2727D2-C41D-47D5-878C-B9F68B53F348
-6. Error receiving frames from the camera.
-7. Authentication * Error connected to the camera: account with such login does not exist, or the password is incorrect. (0)
+ID: 0514ba24-a318-4a42-8eaa-ada15b239ed5
+NAME: (Гальваника)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 088ce777-2b3e-4b68-a795-310110f5b066
-NAME: (2-1 (кам 31))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 7328, present value 7333
-2. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-3. Failed to get profiles from the device
-4. Error trying to connect to the camera.
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 53877, present value 53891
-6. Error when sending Keepalive via RTSP:
-7. Error when sending data Camera via RTCP:
-8. Error receiving frames from the camera.
+ID: 19d8b89c-a612-418f-ae24-140c0f6b2971
+NAME: (Цех Сварочный 3)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (20)
+2. Error trying to connect to the camera. (20)
 
-ID: 08e40069-f9f4-405f-a08b-ec0970fccb9a
-NAME: (Пандус 19 (кам 14))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 29532, present value 34155
-2. Error executing a CGI request
-3. Error when sending data Camera via RTCP:
-4. Error receiving frames from the camera.
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 926, present value 1724
+ID: 1bd3995a-a21c-47fd-b917-617e331b2ac2
+NAME: (Касса)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 0a099d82-110a-45ff-adf9-cebf664d0823
-NAME: (Склад 2 Поворотная (кам 19))
-1. Error receiving frames from the camera.
+ID: 217f2322-14ea-4282-9369-07f529b7e82b
+NAME: (Продажа ППР)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 0a1ac4b0-f6b0-4838-aa36-f6f3efdd0fac
-NAME: (Склад 2 проход ворота 3 (кам 44))
-1. Error trying to connect to the camera.
-2. Violation of the sequence in the RTP, the type of load 96, Previous value 13562, present value 13571
-3. Error when sending Keepalive via RTSP:
-4. RTSP-Substream RTSP Connection using different protocols failed. For more details see DevConDebug.log after enabling "debug mode". (0)
-5. Error when sending data Camera via RTCP:
-6. Onvif. Could not connect with any connection type.
-7. Error receiving frames from the camera.
+ID: 313c6d2b-631a-4209-b3a8-3022a7600588
+NAME: (Касса-Деньги)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 154c93c8-0020-487c-a88f-e0afe1916c76
-NAME: (Маркетплейс 6)
-1. Authentication * Error connected to the camera: account with such login does not exist, or the password is incorrect. (2)
-2. Authentication * Error connected to the camera: account with such login does not exist, or the password is incorrect. (7)
-3. Authentication * Error connected to the camera: account with such login does not exist, or the password is incorrect. (1)
-4. Failed to convert string in Int, the source string {A88A759B-4BD1-4DA2-8BB2-AFA3CFAFDA0A}
+ID: 342c55db-9c72-44cb-a4fa-683fffc63ea0
+NAME: (Уборная - 1ый этаж)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (20)
+2. Error trying to connect to the camera. (20)
 
-ID: 192fec78-4322-402a-8e7b-1dfe45b5bbaa
-NAME: (Склад 1 ближ ряд 21-22 (кам 42))
-1. Error receiving frames from the camera.
-2. Error when sending data Camera via RTCP:
+ID: 37475bad-4ae9-408f-80aa-ae589f004112
+NAME: (Продажа Кованных изделий)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 264ba20e-81ef-4a54-8d32-3414aa7e83df
-NAME: (Склад 1 ближ ряд 15-16 (кам 51))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Error receiving frames from the camera.
-6. Violation of the sequence in the RTP, the type of load 96, Previous value 21985, present value 22018
+ID: 412134c6-2a97-4750-a5e0-5a41676b3e33
+NAME: (Мех.Обр - Протяжка)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 29c190e5-0b64-4396-b964-bcd1306879e7
-NAME: (Склад 1 ближ ряд 23-24 (кам 54))
-1. Error receiving frames from the camera.
-2. Error when sending data Camera via RTCP:
+ID: 704a3ff6-a28d-4778-8ea9-da20123bc946
+NAME: (Цех Сварочный - Покраска)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 2dbaf890-5eb2-4223-81e0-8c0cb7dc7be6
-NAME: (Склад 2 дал ряд 3 (кам 60))
-1. Error trying to connect to the camera.
-2. Error when sending Keepalive via RTSP:
-3. Violation of the sequence in the RTP, the type of load 96, Previous value 1784, present value 1789
-4. Error when sending data Camera via RTCP:
-5. Error receiving frames from the camera.
+ID: 710340fe-e53c-47ff-8ef6-f630f7abd716
+NAME: (Мех.Обр)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (20)
+2. Error trying to connect to the camera. (20)
 
-ID: 2f31e96d-966a-45b9-a1fd-62bbf24c2076
-NAME: (Пандус 14 (кам 13))
-1. Error receiving frames from the camera.
-2. Error when sending data Camera via RTCP:
-3. Incorrect amount of payload in RTP, camera ship incorrect data
-4. Wrong video format might be chosen. Expected H265 (HEVC), but device returned - H264
+ID: 75d9be0a-e26a-4731-bf99-8d36da92320a
+NAME: (Двор Б3 Вход ППР Продажи)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 30bb00d8-11de-4a12-a054-83ef424f6126
-NAME: (Склад 1 Сборка товара 2 (кам 69))
-1. Error receiving frames from the camera.
-2. Error when sending data Camera via RTCP:
+ID: 87b384f0-c19d-4801-a41e-c13b1e95fcfc
+NAME: (B3 Автослесорная)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 388891ed-ef76-4d04-ade0-77b511f8d1c1
-NAME: (Пандус 08 (кам 11))
-1. Error receiving frames from the camera.
-2. Violation of the sequence in the RTP, the type of load 96, Previous value 13409, present value 15992
-3. Error when sending data Camera via RTCP:
-4. Violation of the sequence in the RTP, the type of load 96, Previous value 47093, present value 52006
+ID: 8d9d4dd8-320f-426b-adde-e7d7ab041f37
+NAME: (Мех.Обр - Инжекция 3)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (21)
 
-ID: 40bb38c2-a460-4d7c-9111-6bbed588c2f2
-NAME: (Склад 1 дал ряд 05-06 (кам 23))
-1. Error receiving frames from the camera.
+ID: a5796aa8-82f9-400b-a0d0-efe6e9688110
+NAME: (B4 office 2nd Floor Conf Hall)
+1. {6E70729C-4F92-4A17-B396-4178B5A8A888} (2)
+2. Failed to get audio source configs (2)
+3. The camera does not support sound, or an unsupported codec is selected on the camera (2)
 
-ID: 42190b7d-5d5c-433b-84ed-b1417a4e54d3
-NAME: (Пандус 21 (кам 15))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 55700, present value 58043
-2. Could not get information on the channels {DB0ECCB0-565A-4069-8806-D63A5F603544} (0)
-3. Violation of the sequence in the RTP, the type of load 96, Previous value 40704, present value 45405
-4. Violation of the sequence in the RTP, the type of load 96, Previous value 51325, present value 51722
-5. Error executing a CGI request
-6. Error when sending data Camera via RTCP:
-7. Violation of the sequence in the RTP, the type of load 96, Previous value 39796, present value 40580
-8. Error receiving frames from the camera.
+ID: ad27d96e-959d-4a27-a03a-cad9de837259
+NAME: (Двор Б3 Ворота Въезд)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 422a3cc3-911c-4f08-a483-8650c2b159a7
-NAME: (Склад 1 ближ ряд 11-12 (кам 47))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Error when sending data Camera via RTCP:
-6. Error receiving frames from the camera.
+ID: b62019cc-3f77-4be2-83aa-422d0204d22e
+NAME: (Цех Сварочный 2)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (20)
+2. Error trying to connect to the camera. (20)
 
-ID: 4dcdffc4-6288-41ad-a935-399b3cd5c1ff
-NAME: (Склад 1 дал ряд 29-30 (кам 18))
-1. Error receiving frames from the camera.
-2. Error when sending data Camera via RTCP:
+ID: c9cd9e9b-33a3-4e77-a94c-fc7beef4d128
+NAME: (Двор Б3 Цех Отводов)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 58cb7eea-e750-47fa-adb9-7a717c4324a4
-NAME: (Склад 2 ближ ряд 02 (кам 43))
-1. Error trying to connect to the camera.
-2. Error when sending Keepalive via RTSP:
-3. Violation of the sequence in the RTP, the type of load 96, Previous value 1321, present value 1423
-4. Error receiving frames from the camera.
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 1189, present value 1198
+ID: ca2ae99c-f878-4f90-9e54-2a53e0336b09
+NAME: (Подсобка Строй бригады)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (20)
+2. Error trying to connect to the camera. (20)
 
-ID: 5b16455c-14a9-4e92-821e-12860471ffee
-NAME: (Склад 1 ближ ряд 03-04 (кам 56))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Violation of the sequence in the RTP, the type of load 96, Previous value 18760, present value 18772
-5. Error receiving frames from the camera.
-6. Violation of the sequence in the RTP, the type of load 96, Previous value 2553, present value 2667
+ID: cb546f56-8738-4583-b244-183a215ef284
+NAME: (Мех.Обр - Торцовка)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 5c06b7e9-35bb-43e8-b25b-c9b8c338db41
-NAME: (Склад 1 ближ ряд 25-26 (кам 55))
-1. Error receiving frames from the camera.
-2. Error when sending data Camera via RTCP:
+ID: d2687fcf-5cca-4888-b130-caeddc3d01c2
+NAME: (Складчики База 3)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (20)
+2. Error trying to connect to the camera. (20)
 
-ID: 5fd4e5c5-f705-40b9-87dd-9cab4b47845e
-NAME: (Склад 1 ближ ряд 07-08 (кам 36))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Violation of the sequence in the RTP, the type of load 96, Previous value 997, present value 1031
-5. Error when sending Keepalive via RTSP:
-6. Violation of the sequence in the RTP, the type of load 96, Previous value 12474, present value 12640
-7. Error when sending data Camera via RTCP:
-8. Error receiving frames from the camera.
+ID: d8bf68de-f493-4fe7-b6e4-308d756d08d4
+NAME: (Двор Б3 Цех пескоструйный)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (20)
+2. Error trying to connect to the camera. (20)
 
-ID: 61ac90bc-ed4f-4232-9856-6f3561a0be3e
-NAME: (Склад 1 ближ ряд 27-28 (кам 68))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. RTSP-Substream RTSP Connection using different protocols failed. For more details see DevConDebug.log after enabling "debug mode". (0)
-5. Error when sending Keepalive via RTSP:
-6. Onvif. Could not connect with any connection type.
-7. Error receiving frames from the camera.
+ID: dfe9d453-dcc2-4b73-8be0-204893b2a59c
+NAME: (Двор Б3 Вход Цех Сварочный)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 667a2b42-8aa9-42ff-8471-625479e67f62
-NAME: (1-1 (кам 34))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. RTSP-Substream RTSP Connection using different protocols failed. For more details see DevConDebug.log after enabling "debug mode". (0)
-4. Error trying to connect to the camera.
-5. Onvif. Could not connect with any connection type.
-6. Error receiving frames from the camera.
+ID: ef2e668d-020e-4bb7-9598-b4ad014d4009
+NAME: (Двор Б3 Автослесарная)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (20)
+2. Error trying to connect to the camera. (20)
 
-ID: 668bb4c4-ef60-435f-adae-0705c923420d
-NAME: (Склад 2 дал ряд 2 (кам 67))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 2362, present value 2368
-6. Violation of the sequence in the RTP, the type of load 96, Previous value 748, present value 762
-7. Error when sending data Camera via RTCP:
-8. Error receiving frames from the camera.
+ID: f6e70bcc-2b6e-4ecf-9a0d-fd997c3d3787
+NAME: (Мех.Обр - Инжекция 2)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 6ae92cc5-4845-4e01-9096-8b1eac9b55b5
-NAME: (Склад 1 ближ ряд 29-30 (кам 62))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 1611, present value 1635
-2. Error trying to connect to the camera.
-3. Error when sending Keepalive via RTSP:
-4. Error when sending data Camera via RTCP:
-5. Error receiving frames from the camera.
+ID: fb317655-c374-42e9-8ac6-8fc012b38b13
+NAME: (B3 Гараж)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
-ID: 6b334e6e-f8db-4d10-81bd-1c0d902408c8
-NAME: (Склад 1 Сборка товара 4 (кам 70))
-1. Could not to get RTSP port from the device. The dafault port will be used. EFA77B14-FFED-43BC-8163-D28650013271
-2. Error executing a CGI request
-3. Error when sending data Camera via RTCP:
-4. Violation of the sequence in the RTP, the type of load 96, Previous value 9122, present value 11924
-5. Could not log in to Bersan camera. ED2727D2-C41D-47D5-878C-B9F68B53F348
-6. Error receiving frames from the camera.
-
-ID: 6eefd201-e446-4d90-927e-91af5cabbd84
-NAME: (2-5 (кам 38))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 22237, present value 22255
-2. Error trying to connect to the camera.
-3. Error when sending Keepalive via RTSP:
-4. Error when sending data Camera via RTCP:
-5. Error receiving frames from the camera.
-
-ID: 715ff99b-2131-4671-b085-f49c23c795a7
-NAME: (2-3 (кам 30))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error receiving frames from the camera.
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 26019, present value 26031
-
-ID: 78e17e82-8563-42c1-aac1-d394dd2c7b0f
-NAME: (Склад 1 дал ряд 19-20 (кам 07))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Error receiving frames from the camera.
-6. Violation of the sequence in the RTP, the type of load 96, Previous value 19967, present value 20113
-
-ID: 7c84f0f2-7552-4789-8c2e-4a042c49f0d1
-NAME: (1-5 (кам 35))
-1. Error in filling RTCP Bye Packet
-2. Error trying to connect to the camera.
-3. Error when sending Keepalive via RTSP:
-4. The camera completes the connection according to RTCP
-5. Error receiving frames from the camera.
-
-ID: 8028e54b-746f-4d3c-aec4-2bc4559cb2ae
-NAME: (Склад 1 ближ ряд 01-02 (кам 66))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Error when sending data Camera via RTCP:
-6. Error receiving frames from the camera.
-
-ID: 83180396-a69e-4f60-af1e-8f8e9977686e
-NAME: (Склад 2 дал ряд 4 (кам 59))
-1. Failed to get profiles from the device
-2. Error trying to connect to the camera.
-3. Error when sending Keepalive via RTSP:
-4. Error receiving frames from the camera.
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 16346, present value 16410
-
-ID: 89c4d617-1098-4c2c-b881-df2ab852f333
-NAME: (Производство 02 (кам 53))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 8510, present value 8515
-2. Error trying to connect to the camera.
-3. Violation of the sequence in the RTP, the type of load 96, Previous value 1800, present value 1876
-4. Error when sending Keepalive via RTSP:
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 35598, present value 35610
-6. Error receiving frames from the camera.
-
-ID: 8f2c71a2-d75a-45d2-8d9b-ea0f158d2d32
-NAME: (Пандус 12 (кам 12))
-1. Error receiving frames from the camera.
-2. Violation of the sequence in the RTP, the type of load 96, Previous value 35920, present value 40502
-3. Error when sending data Camera via RTCP:
-
-ID: 9053b3a0-7796-4d7d-b449-3c290085b3b5
-NAME: (1-4 (кам 39))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending data Camera via RTCP:
-5. Error receiving frames from the camera.
-6. Violation of the sequence in the RTP, the type of load 96, Previous value 800, present value 804
-
-ID: 9a684ba6-fbf0-4ed0-85d0-c12fd59ae6db
-NAME: (2-6 (кам 41))
-1. Error trying to connect to the camera.
-2. RTSP-Substream RTSP Connection using different protocols failed. For more details see DevConDebug.log after enabling "debug mode". (0)
-3. Error when sending Keepalive via RTSP:
-4. Error when sending data Camera via RTCP:
-5. Onvif. Could not connect with any connection type.
-6. Error receiving frames from the camera.
-7. Violation of the sequence in the RTP, the type of load 96, Previous value 2292, present value 2298
-
-ID: a048d293-445e-4d81-9427-6e6f32b86b4f
-NAME: (1-2 (кам 29))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Violation of the sequence in the RTP, the type of load 96, Previous value 3146, present value 3155
-4. Error in filling RTCP Bye Packet
-5. Error trying to connect to the camera.
-6. The camera completes the connection according to RTCP
-7. Violation of the sequence in the RTP, the type of load 96, Previous value 3116, present value 3121
-8. Error receiving frames from the camera.
-
-ID: afb6688e-9b27-4946-873a-4ff6b1ce65a6
-NAME: (Склад 1 Сборка товара 3 (кам 20))
-1. Error receiving frames from the camera.
-2. Error when sending data Camera via RTCP:
-
-ID: b3345f09-8903-49d5-8977-a3c8c8ab9298
-NAME: (Пандус 6 Ворота)
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 62352, present value 64844
-2. Violation of the sequence in the RTP, the type of load 96, Previous value 52583, present value 54634
-3. Violation of the sequence in the RTP, the type of load 96, Previous value 52559, present value 62651
-4. Error when sending data Camera via RTCP:
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 43982, present value 46074
-6. Error receiving frames from the camera.
-
-ID: b60ddb13-49fd-4e0f-90d7-14b91bec7ff4
-NAME: (Склад 1 ближ ряд 19-20 (кам 61))
-1. Could not to get RTSP port from the device. The dafault port will be used. EFA77B14-FFED-43BC-8163-D28650013271
-2. Error executing a CGI request
-3. Error when sending data Camera via RTCP:
-4. Could not log in to Bersan camera. ED2727D2-C41D-47D5-878C-B9F68B53F348
-5. Error receiving frames from the camera.
-
-ID: b71d9b5a-f229-4a4e-ac7e-ff1b626998e9
-NAME: (Склад 1 Сборка товара 5)
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 46857, present value 47911
-2. Violation of the sequence in the RTP, the type of load 96, Previous value 171, present value 1031
-3. Could not get information on the channels {DB0ECCB0-565A-4069-8806-D63A5F603544} (0)
-4. Error executing a CGI request
-5. Error when sending data Camera via RTCP:
-6. Error receiving frames from the camera.
-7. Violation of the sequence in the RTP, the type of load 96, Previous value 2313, present value 7213
-
-ID: b94d9b2b-ea75-46f8-9bd5-957be366ee0e
-NAME: (1-3 (кам 32))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Error receiving frames from the camera.
-
-ID: ba707f93-a31e-4ecf-bc09-5f5282f74cf3
-NAME: (Склад 1 ближ ряд 09-10 (кам 50))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 636, present value 660
-2. Error trying to connect to the camera.
-3. Error when sending Keepalive via RTSP:
-4. Error when sending data Camera via RTCP:
-5. Error receiving frames from the camera.
-6. Violation of the sequence in the RTP, the type of load 96, Previous value 32923, present value 32930
-
-ID: bb21fb14-0751-489b-bc12-1d3ba530929d
-NAME: (Склад 2 ближ ряд 04 (кам 65))
-1. Failed to get profiles from the device
-2. Error trying to connect to the camera.
-3. Error when sending Keepalive via RTSP:
-4. Violation of the sequence in the RTP, the type of load 96, Previous value 1755, present value 1760
-5. Error receiving frames from the camera.
-
-ID: c4b4dc77-3637-489c-a070-7980c5acf61f
-NAME: (Склад 2 ближ ряд 03 (кам 48))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 1415, present value 1420
-6. Error receiving frames from the camera.
-
-ID: c71cedd0-ca65-4bb5-9d6a-343f9d902cce
-NAME: (Склад 2 дал ряд 1 (кам 63))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Error when sending data Camera via RTCP:
-6. Error receiving frames from the camera.
-7. Violation of the sequence in the RTP, the type of load 96, Previous value 1879, present value 1901
-
-ID: cb2af510-7c37-438e-98c4-633d22067d8d
-NAME: (Производство 03 (кам 57))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Violation of the sequence in the RTP, the type of load 96, Previous value 5642, present value 5654
-6. Violation of the sequence in the RTP, the type of load 96, Previous value 46727, present value 46732
-7. Error when sending data Camera via RTCP:
-8. Error receiving frames from the camera.
-
-ID: ccd83685-0f09-49b7-bef5-bcaf4fe14cdf
-NAME: (Склад 2 проход ворота 4 (кам 72))
-1. RTSP-Substream RTSP Connection failed. For more details see DevConDebug.log after enabling "debug mode" (0)
-2. Violation of the sequence in the RTP, the type of load 96, Previous value 54974, present value 55233
-3. Could not to get RTSP port from the device. The dafault port will be used. EFA77B14-FFED-43BC-8163-D28650013271
-4. Error executing a CGI request
-5. Error when sending data Camera via RTCP:
-6. Could not log in to Bersan camera. ED2727D2-C41D-47D5-878C-B9F68B53F348
-7. Error receiving frames from the camera.
-
-ID: d29c42f6-0747-41c1-a377-4dbdbde9f1fd
-NAME: (Склад 1 ближ ряд 31-32 (кам 49))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Error trying to connect to the camera.
-3. Cannot get camera time using ONVIF. Skipping service path requests.
-
-ID: e164bb98-7a76-49c0-a194-103062ffe6fd
-NAME: (2-2 (кам 40))
-1. Error trying to connect to the camera.
-2. Violation of the sequence in the RTP, the type of load 96, Previous value 9450, present value 9486
-3. Error when sending Keepalive via RTSP:
-4. Violation of the sequence in the RTP, the type of load 96, Previous value 1991, present value 2028
-5. Error receiving frames from the camera.
-
-ID: e719f45c-9d9f-42e4-b130-2562245e7afc
-NAME: (Производство 01 (кам 52))
-1. Error trying to connect to the camera.
-2. Error when sending Keepalive via RTSP:
-3. Error when sending data Camera via RTCP:
-4. Violation of the sequence in the RTP, the type of load 96, Previous value 47191, present value 47251
-5. Error receiving frames from the camera.
-
-ID: eb4100ea-162a-4e5d-9c53-5d966d38332f
-NAME: (Склад 1 ближ ряд 05-06 (кам 64))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. RTSP-Substream RTSP Connection using different protocols failed. For more details see DevConDebug.log after enabling "debug mode". (0)
-5. Error when sending Keepalive via RTSP:
-6. Error when sending data Camera via RTCP:
-7. Onvif. Could not connect with any connection type.
-8. Error receiving frames from the camera.
-9. Violation of the sequence in the RTP, the type of load 96, Previous value 245, present value 251
-
-ID: ed46ec7a-73cf-489e-8163-df0d687453e1
-NAME: (Склад 1 ближ ряд 13-14 (кам 46))
-1. Cannot get camera time using ONVIF. Skipping service path requests.
-2. Violation of the sequence in the RTP, the type of load 96, Previous value 33487, present value 33550
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Error when sending data Camera via RTCP:
-6. Error receiving frames from the camera.
-
-ID: f3c5ca7e-2a7b-4ca2-b42a-76509a871e6a
-NAME: (Пандус 02 (кам 10))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 25270, present value 27851
-2. Could not get information on the channels {DB0ECCB0-565A-4069-8806-D63A5F603544} (0)
-3. Wrong video format might be chosen. Expected H265 (HEVC), but device returned - H264
-4. Error executing a CGI request
-5. Error when sending data Camera via RTCP:
-6. Error receiving frames from the camera.
-
-ID: f7818688-2e21-4f30-a6b3-fe62042de7b5
-NAME: (Склад 1 Сборка товара 1 (кам 71))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 4778, present value 7131
-2. Violation of the sequence in the RTP, the type of load 96, Previous value 43192, present value 43364
-3. Violation of the sequence in the RTP, the type of load 96, Previous value 17985, present value 18343
-4. Violation of the sequence in the RTP, the type of load 96, Previous value 56293, present value 56861
-5. An error occurred while getting network settings from Bersan camera. 722F31F8-FC32-4816-AA72-D563D9B98698
-6. Could not to get RTSP port from the device. The dafault port will be used. EFA77B14-FFED-43BC-8163-D28650013271
-7. The camera completes the connection according to RTCP
-8. Error executing a CGI request
-9. Could not log in to Bersan camera. ED2727D2-C41D-47D5-878C-B9F68B53F348
-10. Violation of the sequence in the RTP, the type of load 96, Previous value 19902, present value 20856
-11. Error receiving frames from the camera.
-12. Violation of the sequence in the RTP, the type of load 96, Previous value 50130, present value 50429
-13. Violation of the sequence in the RTP, the type of load 96, Previous value 51844, present value 52139
-14. Violation of the sequence in the RTP, the type of load 96, Previous value 55222, present value 55810
-
-ID: fc105587-e525-4471-9143-0ba502765dba
-NAME: (Склад 2 ближ ряд 01 (кам 45))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 17203, present value 17245
-2. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-3. Failed to get profiles from the device
-4. Error trying to connect to the camera.
-5. Error when sending Keepalive via RTSP:
-6. Error when sending data Camera via RTCP:
-7. Error receiving frames from the camera.
-
-ID: fe204b97-9a6a-4f39-bdbc-396d87c6019f
-NAME: (1-6 (кам 33))
-1. {6E70729C-4F92-4A17-B396-4178B5A8A888}
-2. Failed to get profiles from the device
-3. Error trying to connect to the camera.
-4. Error when sending Keepalive via RTSP:
-5. Error receiving frames from the camera.
-
-ID: fefc85a5-8ee9-4c41-a568-90471547172f
-NAME: (Склад 1 ближ ряд 17-18 (кам 58))
-1. Violation of the sequence in the RTP, the type of load 96, Previous value 898, present value 915
-2. Error trying to connect to the camera.
-3. Error when sending Keepalive via RTSP:
-4. Error when sending data Camera via RTCP:
-5. Error receiving frames from the camera.
+ID: ffaa15b1-c25a-4897-85b7-3e35c279dc30
+NAME: (Раздевалка Б1 - 3)
+1. Cannot get camera time using ONVIF. Skipping service path requests. (21)
+2. Error trying to connect to the camera. (20)
 
