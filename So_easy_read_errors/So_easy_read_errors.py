@@ -1,7 +1,3 @@
-"""
-So_easy_read_errors — Анализ ошибок камер из логов DevCon.
-"""
-
 import sys
 import os
 import re
