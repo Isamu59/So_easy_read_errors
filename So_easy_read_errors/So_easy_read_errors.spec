@@ -1,5 +1,12 @@
 # -*- mode: python ; coding: utf-8 -*-
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 928a61d8b56bf389fa489e9137c658dc10ab44d1
+>>>>>>> 3a0fceb41d2d87549615cda9c5160abab8ea13c8
 a = Analysis(
     ['So_easy_read_errors.py'],
     pathex=[],
@@ -34,5 +41,12 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+<<<<<<< HEAD
     onefile=True,
+=======
+<<<<<<< HEAD
+    onefile=True,
+=======
+>>>>>>> 928a61d8b56bf389fa489e9137c658dc10ab44d1
+>>>>>>> 3a0fceb41d2d87549615cda9c5160abab8ea13c8
 )

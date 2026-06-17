@@ -6,3 +6,5 @@
 _ReSharper*/
 bin/
 obj/
+So_easy_read_errors/DevConError.log
+So_easy_read_errors/ServerConfiguration.log
